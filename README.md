@@ -3,7 +3,7 @@
 **KOBİ'ler için yapay zekâ destekli KVKK uyum ajanı.** İşletmenizi anlatın; KVKKpilot uyum skorunuzu, VERBİS yükümlülüğünüzü ve 2026 ceza riskinizi hesaplasın, sektörünüze göre aydınlatma metni, çerez politikası ve veri envanterini hazırlasın.
 
 🔗 **Canlı ürün:** https://kvkkpilot-blush.vercel.app
-🎬 **Demo videosu:** [YouTube linki]
+🎬 **Demo videosu:** https://youtu.be/JSfjLv6pLgs
 
 ![KVKKpilot uyum raporu](docs/rapor.png)
 
