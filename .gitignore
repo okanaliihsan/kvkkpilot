@@ -1,0 +1,9 @@
+node_modules/
+.vercel/
+.env
+.env.*
+cypress/videos/
+cypress/screenshots/
+demo/video/
+*.log
+.DS_Store

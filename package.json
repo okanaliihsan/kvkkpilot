@@ -1,0 +1,16 @@
+{
+  "name": "kvkkpilot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KOBİ'ler için yapay zekâ destekli KVKK uyum ajanı",
+  "license": "MIT",
+  "engines": { "node": "22.x" },
+  "scripts": {
+    "dev": "npx --yes serve@14.2.4 -l 3000 .",
+    "test:e2e": "cypress run",
+    "test:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "13.17.0"
+  }
+}
